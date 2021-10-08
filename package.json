@@ -1,0 +1,17 @@
+{
+  "name": "simplest-work-with-api",
+  "version": "1.0.0",
+  "description": "simplest work with api",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "js",
+    "fetch",
+    "rickAndMorty"
+  ],
+  "author": "ThereFox",
+  "license": "ISC"
+}
