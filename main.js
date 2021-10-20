@@ -12,7 +12,6 @@ moreBtn.addEventListener('click', () => {
         addPersonCart(a + 1, 10);
         moreBtn.style.display = "none";
     }
-    //console.log(a);
 })
 
 
